@@ -11,3 +11,13 @@ This project demonstrates a simple controller without any database integration.
 - Hot reload with DevTools
 
 ## Project Structure
+pringboot-hello/
+├── mvnw
+├── mvnw.cmd
+├── pom.xml
+└── src
+└── main
+├── java/com/example/demo/
+│ ├── DemoApplication.java
+│ └── controller/HelloController.java
+└── resources/application.properties
