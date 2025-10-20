@@ -10,20 +10,6 @@ This project demonstrates a simple controller without any database integration.
 - No database required
 - Hot reload with DevTools
 
-## Project Structure
-```bash
-pringboot-hello/
-├── mvnw
-├── mvnw.cmd
-├── pom.xml
-└── src
-└── main
-├── java/com/example/demo/
-│ ├── DemoApplication.java
-│ └── controller/HelloController.java
-└── resources/application.properties
-
-
 ## Run the Application
 
 ### Using Maven
