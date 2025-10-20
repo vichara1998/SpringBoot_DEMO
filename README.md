@@ -11,6 +11,7 @@ This project demonstrates a simple controller without any database integration.
 - Hot reload with DevTools
 
 ## Project Structure
+```bash
 pringboot-hello/
 ├── mvnw
 ├── mvnw.cmd
@@ -21,3 +22,10 @@ pringboot-hello/
 │ ├── DemoApplication.java
 │ └── controller/HelloController.java
 └── resources/application.properties
+
+
+## Run the Application
+
+### Using Maven
+```bash
+./mvnw spring-boot:run
